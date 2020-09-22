@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/course_app_using_react/static/css/main.ba2d0a52.chunk.css",
+    "main.js": "/course_app_using_react/static/js/main.d42be4be.chunk.js",
+    "main.js.map": "/course_app_using_react/static/js/main.d42be4be.chunk.js.map",
+    "runtime-main.js": "/course_app_using_react/static/js/runtime-main.7f488c66.js",
+    "runtime-main.js.map": "/course_app_using_react/static/js/runtime-main.7f488c66.js.map",
+    "static/css/2.11829350.chunk.css": "/course_app_using_react/static/css/2.11829350.chunk.css",
+    "static/js/2.82bcc6ad.chunk.js": "/course_app_using_react/static/js/2.82bcc6ad.chunk.js",
+    "static/js/2.82bcc6ad.chunk.js.map": "/course_app_using_react/static/js/2.82bcc6ad.chunk.js.map",
+    "index.html": "/course_app_using_react/index.html",
+    "precache-manifest.2bef3152e185309075a5e8684e86eb87.js": "/course_app_using_react/precache-manifest.2bef3152e185309075a5e8684e86eb87.js",
+    "service-worker.js": "/course_app_using_react/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/course_app_using_react/static/css/2.11829350.chunk.css.map",
+    "static/css/main.ba2d0a52.chunk.css.map": "/course_app_using_react/static/css/main.ba2d0a52.chunk.css.map",
+    "static/js/2.82bcc6ad.chunk.js.LICENSE.txt": "/course_app_using_react/static/js/2.82bcc6ad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f488c66.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.82bcc6ad.chunk.js",
+    "static/css/main.ba2d0a52.chunk.css",
+    "static/js/main.d42be4be.chunk.js"
+  ]
+}
